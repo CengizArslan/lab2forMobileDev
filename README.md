@@ -1,4 +1,4 @@
-# My First React Native App - CPAN 213
+# My First React Native App Continued - CPAN 213
 
 #### Description
 This is my first React Native application created for the CPAN 213 course.
@@ -12,7 +12,7 @@ This is my first React Native application created for the CPAN 213 course.
 #### Getting Started
 1. Clone this repository  
 2. Run `npm install`  
-3. Run `npx react-native run-android` (or `npx react-native run-ios` if on Mac)  
+3. Run `npx expo start` (or `npx react-native run-ios` if on Mac)  
 
 #### Features Implemented
 - Custom welcome screen  
@@ -25,3 +25,4 @@ This is my first React Native application created for the CPAN 213 course.
 - React Native: 0.81.4  
 - Android Studio: 21.0.7 
 - VS Code: 1.104.0 
+
